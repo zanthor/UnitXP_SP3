@@ -1,0 +1,32 @@
+﻿  pch.cpp
+  coffTimeDateStamp.cpp
+  distanceBetween.cpp
+  dllmain.cpp
+  relativeDirection.cpp
+  editCamera.cpp
+  edit_CWorld_Intersect.cpp
+  FPScap.cpp
+  gameQuit.cpp
+  gameSocket.cpp
+  inSight.cpp
+  LuaDebug.cpp
+  modernNameplateDistance.cpp
+  notifyOS.cpp
+  performanceProfiling.cpp
+  polyfill.cpp
+  sceneBegin_sceneEnd.cpp
+  screenshot.cpp
+  stb_image_write.cpp
+  targeting.cpp
+  timer.cpp
+  Generating Code...
+  Compiling...
+  utf8_to_utf16.cpp
+  Vanilla1121_functions.cpp
+  weather.cpp
+  worldText.cpp
+  Generating Code...
+  libMinHook.x86.lib(hook.obj) : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+  Generating code
+  Finished generating code
+  UnitXP_SP3.vcxproj -> C:\Users\zanth\Documents\GIT\UnitXP_SP3\UnitXP_SP3\Release\UnitXP_SP3.dll

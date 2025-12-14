@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zanth\\Documents\\GIT\\UnitXP_SP3\\UnitXP_SP3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9692BF-29A4-4196-BC90-013C94E5BD2D}|UnitXP_SP3\\UnitXP_SP3.vcxproj|C:\\Users\\zanth\\Documents\\GIT\\UnitXP_SP3\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dllmain.cpp",
+              "DocumentMoniker": "C:\\Users\\zanth\\Documents\\GIT\\UnitXP_SP3\\dllmain.cpp",
+              "RelativeDocumentMoniker": "..\\dllmain.cpp",
+              "ToolTip": "C:\\Users\\zanth\\Documents\\GIT\\UnitXP_SP3\\dllmain.cpp",
+              "RelativeToolTip": "..\\dllmain.cpp",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAcwIIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-14T08:02:30.527Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
